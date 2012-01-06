@@ -158,7 +158,6 @@ var domains = [
 	'bose.com',
 	'burberry.com',
 	'adobe.com',
-	'apple.com',
 	'aveva.com',
 	'avg.com',
 	'bentley.com',
